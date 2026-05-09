@@ -121,9 +121,13 @@ Does fine-tuning DistilBERT provide a statistically significant improvement over
 
 ## 📁 Repository Structure
 ├── notebooks/
+
 │ └── stress_detection_benchmark.ipynb
+
 ├── results/
+
 │ ├── figures/
+
 └── README.md
 
 
